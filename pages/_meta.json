@@ -1,6 +1,6 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
+  "index": "Vision Aid",
+  "another": "Location Input",
   "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
@@ -9,7 +9,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://visionaidreboot.vercel.app/",
     "newWindow": true
   }
 }
